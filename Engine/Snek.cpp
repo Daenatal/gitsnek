@@ -107,3 +107,5 @@ const Location& Snake::Segment::GetLocation() const
 {
 	return loc;
 }
+
+//adding a note to understand branches
